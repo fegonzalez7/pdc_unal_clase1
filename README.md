@@ -24,9 +24,9 @@ Bienvenidos al emocionante mundo de la programación...(qué más se puede decir
 3. Especificar algoritmos de manera precisa utilizando conceptos y elementos de programación
 4. Implementar la solución algorítmica mediante un lenguaje de programación como Python/C. 
 
-(No oficiales)
-5. Abstraer problemas y proponer una solución lógica/secuencial usando algoritmos codificados.
-6. Utilizar herramientas útiles en el entorno de la programación (Github, VS Code, Slack, Terminal)
+(No oficiales)<br>
+5. Abstraer problemas y proponer una solución lógica/secuencial usando algoritmos codificados.<br>
+6. Utilizar herramientas útiles en el entorno de la programación (Github, VS Code, Slack, Terminal)<br>
 7. Potenciar habilidades técnicas y suaves.
 
 ## Metodología del curso
@@ -43,10 +43,10 @@ La información del curso se proporcionará mediante presentaciones o mediante r
 | Proyecto  | 30  |  avance (5%) semana 5, avance 2 (5%) semana 9, entrega final (20%) semana 16\* - grupal |
 | Talleres | 20  | 4 talleres (5% c/u) (semanas 3 - 6 - 9 - 14)\* - grupal  |
 | Retos | 10  | Desafios en clase, quizes, preguntas, etc.  |
-<br>
-**Individual:**  Se desarrolla y se entrega de forma unipersonal.
-**Grupal:** Se "desarrolla" y entrega de forma grupal. Para el curso se sugieren ternas. **NO** es obligatorio trabajar de forma grupal, si desea trabajar solo o en parejas es aceptable, pero parte de los objetivos del curso es promover el trabajo en equipo, de modo que se recomienda hacerlo. Soy buen sacerdote (acepto uniones) pero mal abogado (pero no divorcios).
-**\*:** Fechas tentativas.
+
+- **Individual:**  Se desarrolla y se entrega de forma unipersonal.
+- **Grupal:** Se "desarrolla" y entrega de forma grupal. Para el curso se sugieren ternas. - **NO** es obligatorio trabajar de forma grupal, si desea trabajar solo o en parejas es aceptable, pero parte de los objetivos del curso es promover el trabajo en equipo, de modo que se recomienda hacerlo. Soy buen sacerdote (acepto uniones) pero mal abogado (pero no divorcios).
+ - **\*:** Fechas tentativas.
 
 ## Contenido del curso
 
@@ -93,7 +93,7 @@ La información del curso se proporcionará mediante presentaciones o mediante r
 ## Herramientas
  - Disposición para aprender
  - Computador (personal, salón de clase, pc's de la universidad)
- - **Sistemas operativos: ** Windows :confounded:, Linux :alien:, OSX :moneybag:
+ - **Sistemas operativos:** Windows :confounded:, Linux :alien:, OSX :moneybag:
  - Editor de texto -> Aunque de preferencia un IDE
  - Acceso a compilador/interprete
  - Acceso a internet
