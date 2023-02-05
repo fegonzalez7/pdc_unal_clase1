@@ -71,7 +71,8 @@ La información del curso se proporcionará mediante presentaciones o mediante r
     <td>Junio 26 de 2022</td>
   </tr>
 </table>
- **Disclaimer:** Culaquier modificación de informará oportunamente
+<br>
+**Disclaimer:** Culaquier modificación de informará oportunamente
  
 ## Código de honor
 *"No aprendes a caminar siguiendo reglas. Aprendes haciendo y cayéndote."* **Richard Branson**
@@ -100,6 +101,6 @@ La información del curso se proporcionará mediante presentaciones o mediante r
 ------------
 ## Reto No. 1
 El primer reto tiene tres componentes:
-1. Unirse al grupo de slack (lo que implica crear cuenta con el correo institucional) y saludar en el canal de general.
+1. Unirse al grupo de [slack](https://slack.com/get-started#/createnew) (lo que implica crear cuenta con el correo institucional) y saludar en el canal de general.
 2. Crear cuenta en [Github](https://github.com/signup), igual con el correo institucional. Esto es muy importante ya que la gran mayoría de entregas va a usar este medio.
 3. Familiarizarce con [Markdown](https://en.wikipedia.org/wiki/Markdown) (puede ser [aquí](https://medium.com/analytics-vidhya/how-to-create-a-readme-md-file-8fb2e8ce24e3)), ya que va a hacer la forma de documentar las entregas.
