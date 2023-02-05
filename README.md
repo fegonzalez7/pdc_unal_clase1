@@ -3,18 +3,18 @@
 Bienvenidos al emocionante mundo de la programación...(qué más se puede decir)...básicamente la forma de darle sentido lógico a un conjunto de pasos y comandos. 
 
 ## Información del curso
-**Nombre de la asignatura:** Programación de Computadores
-**Código:** 2015734
-**Nivel:** Pregrado
-**Sede:** Bogotá
-**Facultad:** Ingeniería
-Unidad que ofrece la asignatura: Departamento de Ingeniería de Sistemas e Industrial
-**Línea de profundización:** Programación de Computadores
-**Tipo de curso:** Práctica
+**Nombre de la asignatura:** Programación de Computadores<br>
+**Código:** 2015734<br>
+**Nivel:** Pregrado<br>
+**Sede:** Bogotá<br>
+**Facultad:** Ingeniería<br>
+**Unidad que ofrece la asignatura:** Departamento de Ingeniería de Sistemas e Industrial<br>
+**Línea de profundización:** Programación de Computadores<br>
+**Tipo de curso:** Práctica<br>
 
-**Docente:** [Felipe Gonzalez Roldan](https://felipeg17.github.io/index.html)
-**Correo:** <mailto>fegonzalezro@unal.edu.co</mailto>
-**Slack del curso:** [Link para unirse](https://join.slack.com/t/programaciond-z4k6172/shared_invite/zt-1on7outdv-rGi3R~xmA8MyXtHMlu6vYQ)
+**Docente:** [Felipe Gonzalez Roldan](https://felipeg17.github.io/index.html)<br>
+**Correo:** <mailto>fegonzalezro@unal.edu.co</mailto><br>
+**Slack del curso:** [Link para unirse](https://join.slack.com/t/programaciond-z4k6172/shared_invite/zt-1on7outdv-rGi3R~xmA8MyXtHMlu6vYQ)<br>
 **Classroom/Moodle:**  [Link]()
 
 ### Objetivos del curso
@@ -43,6 +43,7 @@ La información del curso se proporcionará mediante presentaciones o mediante r
 | Proyecto  | 30  |  avance (5%) semana 5, avance 2 (5%) semana 9, entrega final (20%) semana 16\* - grupal |
 | Talleres | 20  | 4 talleres (5% c/u) (semanas 3 - 6 - 9 - 14)\* - grupal  |
 | Retos | 10  | Desafios en clase, quizes, preguntas, etc.  |
+<br>
 **Individual:**  Se desarrolla y se entrega de forma unipersonal.
 **Grupal:** Se "desarrolla" y entrega de forma grupal. Para el curso se sugieren ternas. **NO** es obligatorio trabajar de forma grupal, si desea trabajar solo o en parejas es aceptable, pero parte de los objetivos del curso es promover el trabajo en equipo, de modo que se recomienda hacerlo. Soy buen sacerdote (acepto uniones) pero mal abogado (pero no divorcios).
 **\*:** Fechas tentativas.
@@ -100,6 +101,5 @@ La información del curso se proporcionará mediante presentaciones o mediante r
 ## Reto No. 1
 El primer reto tiene tres componentes:
 1. Unirse al grupo de slack (lo que implica crear cuenta con el correo institucional) y saludar en el canal de general.
-2. Crear cuenta en [Github](https://github.com/signup), igual con el correo institucional. Esto es miuy importante ya que la gran mayoría de entregas va a usar este medio.
+2. Crear cuenta en [Github](https://github.com/signup), igual con el correo institucional. Esto es muy importante ya que la gran mayoría de entregas va a usar este medio.
 3. Familiarizarce con [Markdown](https://en.wikipedia.org/wiki/Markdown) (puede ser [aquí](https://medium.com/analytics-vidhya/how-to-create-a-readme-md-file-8fb2e8ce24e3)), ya que va a hacer la forma de documentar las entregas.
-
