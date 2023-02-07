@@ -49,18 +49,7 @@ La información del curso se proporcionará mediante presentaciones o mediante r
  - **\*:** Fechas tentativas.
 
 ## Contenido del curso
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0w9m{font-family:Arial, Helvetica, sans-serif !important;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-
 <details><summary>Contenido detallado</summary><p>
-
 <table class="tg">
 <thead>
   <tr>
@@ -312,6 +301,17 @@ La información del curso se proporcionará mediante presentaciones o mediante r
   </tr>
 </tbody>
 </table>
+</p></details></br>
+<details><summary>Estilo tabla</summary><p>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0w9m{font-family:Arial, Helvetica, sans-serif !important;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
 </p></details></br>
 
 ## Calendario académico 
