@@ -73,7 +73,7 @@ La información del curso se proporcionará mediante presentaciones o mediante r
     <td class="tg-0lax">1</td>
     <td class="tg-0lax">8/02/2023</td>
     <td class="tg-0lax">Herramientas</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase2">Clase 2</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
