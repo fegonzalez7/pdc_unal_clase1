@@ -49,8 +49,6 @@ La información del curso se proporcionará mediante presentaciones o mediante r
  - **\*:** Fechas tentativas.
 
 ## Contenido del curso
-
-<details><summary>Contenido detallado</summary><p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -60,6 +58,9 @@ La información del curso se proporcionará mediante presentaciones o mediante r
 .tg .tg-0w9m{font-family:Arial, Helvetica, sans-serif !important;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
+
+<details><summary>Contenido detallado</summary><p>
+
 <table class="tg">
 <thead>
   <tr>
