@@ -30,7 +30,7 @@ Bienvenidos al emocionante mundo de la programación...(qué más se puede decir
 7. Potenciar habilidades técnicas y suaves.
 
 ## Metodología del curso
-**Disclaimer:** En este curso se procurará enseñar a pensar, programar viene por añadidura. 
+**Disclaimer:** En este curso se procurará desarrollar el pensamiento lógico, programar viene por añadidura. 
 
 Desarrollar soluciones lógicas puede ser algo intrinseco de cada persona o se puede aprender, pero como todo es un proceso que lleva tiempo y esfuerzo. Este curso está estructurado de tal manera que provee una guía y facilita material para que el desarrollo de ciertas habilidades peuda darse de forma armónica, sin embargo no reemplaza el autoaprendizaje ni el trabajo propio. 
 
@@ -39,9 +39,9 @@ La información del curso se proporcionará mediante presentaciones o mediante r
 ## Evaluación
 | Tipo   | %  | Detalle  |
 | ------------ | ------------ | ------------ |
-| Examenes  |  40 | Examenes conjuntos - 1er (20%) semana 4, 2do (10%) semana 10, 3ro (10%) semana 15  - individual |
-| Proyecto  | 30  |  avance (5%) semana 5, avance 2 (5%) semana 9, entrega final (20%) semana 16\* - grupal |
-| Talleres | 20  | 4 talleres (5% c/u) (semanas 3 - 6 - 9 - 14)\* - grupal  |
+| Examenes  | 35 | Examenes - 1er (10%) semana 5\*, 2do (10%) semana 10, Final (15%) semana 15 |
+| Proyecto  | 32  |  avance (10%) semana 10, entrega final (22%) semana 16\* - grupal |
+| Talleres | 18  | 3 talleres (6% c/u) (semanas 5 - 8 - 13)\* - grupal  |
 | Retos | 10  | Desafios en clase, quizes, preguntas, etc.  |
 
 - **Individual:**  Se desarrolla y se entrega de forma unipersonal.
@@ -50,7 +50,268 @@ La información del curso se proporcionará mediante presentaciones o mediante r
 
 ## Contenido del curso
 
-*Pendiente*
+<details><summary>Contenido detallado</summary><p>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0w9m{font-family:Arial, Helvetica, sans-serif !important;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0w9m">Semana</th>
+    <th class="tg-0w9m">No</th>
+    <th class="tg-0w9m">Fecha</th>
+    <th class="tg-0w9m">Tema</th>
+    <th class="tg-0w9m">Enlace de interés</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax">1</td>
+    <td class="tg-0lax">6/02/2023</td>
+    <td class="tg-0lax">Intro al curso</td>
+    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase1">Clase 1</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax">1</td>
+    <td class="tg-0lax">8/02/2023</td>
+    <td class="tg-0lax">Herramientas</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax">2</td>
+    <td class="tg-0lax">13/02/2023</td>
+    <td class="tg-0lax">Generalidades programación</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax">2</td>
+    <td class="tg-0lax">15/02/2023</td>
+    <td class="tg-0lax">Lenguajes</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax">3</td>
+    <td class="tg-0lax">20/02/2023</td>
+    <td class="tg-0lax">Problemas - Algoritmos</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax">3</td>
+    <td class="tg-0lax">22/02/2023</td>
+    <td class="tg-0lax">Tipos de datos - Expresiones</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax">4</td>
+    <td class="tg-0lax">27/02/2023</td>
+    <td class="tg-0lax">Asignación - Tipos de datos</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax">4</td>
+    <td class="tg-0lax">1/03/2023</td>
+    <td class="tg-0lax">Expresiones - Operaciones</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax">5</td>
+    <td class="tg-0lax">6/03/2023</td>
+    <td class="tg-0lax">Taller 1</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax">5</td>
+    <td class="tg-0lax">8/03/2023</td>
+    <td class="tg-0lax">Examen 1</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax">6</td>
+    <td class="tg-0lax">13/03/2023</td>
+    <td class="tg-0lax">Secuencias - Condicionales</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax">6</td>
+    <td class="tg-0lax">15/03/2023</td>
+    <td class="tg-0lax">Anidación - Funciones 1</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax">7</td>
+    <td class="tg-0lax">20/03/2023</td>
+    <td class="tg-0lax">Festivo</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax">7</td>
+    <td class="tg-0lax">22/03/2023</td>
+    <td class="tg-0lax">Bucles 1</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax">8</td>
+    <td class="tg-0lax">27/03/2023</td>
+    <td class="tg-0lax">Funciones 2</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax">8</td>
+    <td class="tg-0lax">29/03/2023</td>
+    <td class="tg-0lax">Taller 2</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">3/04/2023</td>
+    <td class="tg-0lax">Semana Santa</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">5/04/2023</td>
+    <td class="tg-0lax">Semana Santa</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax">9</td>
+    <td class="tg-0lax">10/04/2023</td>
+    <td class="tg-0lax">Arreglos</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax">9</td>
+    <td class="tg-0lax">12/04/2023</td>
+    <td class="tg-0lax">Avance Proyecto</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax">10</td>
+    <td class="tg-0lax">17/04/2023</td>
+    <td class="tg-0lax">Arreglos 2</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax">10</td>
+    <td class="tg-0lax">19/04/2023</td>
+    <td class="tg-0lax">Examen 2</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax">11</td>
+    <td class="tg-0lax">24/04/2023</td>
+    <td class="tg-0lax">Matrices</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax">11</td>
+    <td class="tg-0lax">26/04/2023</td>
+    <td class="tg-0lax">Cadenas de caracteres</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax">12</td>
+    <td class="tg-0lax">1/05/2023</td>
+    <td class="tg-0lax">Festivo</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax">12</td>
+    <td class="tg-0lax">3/05/2023</td>
+    <td class="tg-0lax">Funciones 3</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax">13</td>
+    <td class="tg-0lax">8/05/2023</td>
+    <td class="tg-0lax">Módulos</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax">13</td>
+    <td class="tg-0lax">10/05/2023</td>
+    <td class="tg-0lax">Taller 3</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax">14</td>
+    <td class="tg-0lax">15/05/2023</td>
+    <td class="tg-0lax">Manejo de archivos</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax">14</td>
+    <td class="tg-0lax">17/05/2023</td>
+    <td class="tg-0lax">Dudas - Avance</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax">15</td>
+    <td class="tg-0lax">22/05/2023</td>
+    <td class="tg-0lax">Festivo</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax">15</td>
+    <td class="tg-0lax">24/05/2023</td>
+    <td class="tg-0lax">Dudas - Avance</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax">16</td>
+    <td class="tg-0lax">29/05/2023</td>
+    <td class="tg-0lax">Entrega Proyecto</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax">16</td>
+    <td class="tg-0lax">31/05/2023</td>
+    <td class="tg-0lax">Examen Final</td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
+</p></details></br>
 
 ## Calendario académico 
 <table>
@@ -64,14 +325,15 @@ La información del curso se proporcionará mediante presentaciones o mediante r
   </tr>
   <tr>
     <td>Finalización de clases</td>
-    <td>Junio 21 de 2022</td>
+    <td>Mayo 31 de 2022</td>
   </tr>
    <tr>
     <td>Reporte de calificaciones </td>
-    <td>Junio 26 de 2022</td>
+    <td>Junio 9 de 2022</td>
   </tr>
 </table>
 <br>
+
 **Disclaimer:** Culaquier modificación de informará oportunamente
  
 ## Código de honor
