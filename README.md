@@ -42,7 +42,7 @@ La información del curso se proporcionará mediante presentaciones o mediante r
 | Examenes  | 35 | Examenes - 1er (10%) semana 5\*, 2do (10%) semana 10, Final (15%) semana 15 |
 | Proyecto  | 32  |  avance (10%) semana 10, entrega final (22%) semana 16\* - grupal |
 | Talleres | 18  | 3 talleres (6% c/u) (semanas 5 - 8 - 13)\* - grupal  |
-| Retos | 10  | Desafios en clase, quizes, preguntas, etc.  |
+| Retos | 15  | Desafios en clase, quizes, preguntas, etc.  |
 
 - **Individual:**  Se desarrolla y se entrega de forma unipersonal.
 - **Grupal:** Se "desarrolla" y entrega de forma grupal. Para el curso se sugieren ternas. - **NO** es obligatorio trabajar de forma grupal, si desea trabajar solo o en parejas es aceptable, pero parte de los objetivos del curso es promover el trabajo en equipo, de modo que se recomienda hacerlo. Soy buen sacerdote (acepto uniones) pero mal abogado (pero no divorcios).
