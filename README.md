@@ -73,27 +73,27 @@ La información del curso se proporcionará mediante presentaciones o mediante r
     <td class="tg-0lax">1</td>
     <td class="tg-0lax">8/02/2023</td>
     <td class="tg-0lax">Herramientas</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase2">Clase 2</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
     <td class="tg-0lax">2</td>
     <td class="tg-0lax">13/02/2023</td>
     <td class="tg-0lax">Generalidades programación</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase3">Clase 3</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
     <td class="tg-0lax">2</td>
     <td class="tg-0lax">15/02/2023</td>
-    <td class="tg-0lax">Lenguajes</td>
+    <td class="tg-0lax">Problemas - Algoritmos</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
     <td class="tg-0lax">3</td>
     <td class="tg-0lax">20/02/2023</td>
-    <td class="tg-0lax">Problemas - Algoritmos</td>
+    <td class="tg-0lax">Lenguajes</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
