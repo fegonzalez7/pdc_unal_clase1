@@ -94,27 +94,27 @@ La información del curso se proporcionará mediante presentaciones o mediante r
     <td class="tg-0lax">3</td>
     <td class="tg-0lax">20/02/2023</td>
     <td class="tg-0lax">Lenguajes</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase5">Clase 5</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
     <td class="tg-0lax">3</td>
     <td class="tg-0lax">22/02/2023</td>
-    <td class="tg-0lax">Tipos de datos - Expresiones</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Tipos de datos - Variables</td>
+    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase6">Clase 6</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
     <td class="tg-0lax">4</td>
     <td class="tg-0lax">27/02/2023</td>
-    <td class="tg-0lax">Asignación - Tipos de datos</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Operaciones</td>
+    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase6">Clase 6</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
     <td class="tg-0lax">4</td>
     <td class="tg-0lax">1/03/2023</td>
-    <td class="tg-0lax">Expresiones - Operaciones</td>
+    <td class="tg-0lax">Ejercicios</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
