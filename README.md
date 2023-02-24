@@ -115,7 +115,7 @@ La información del curso se proporcionará mediante presentaciones o mediante r
     <td class="tg-0lax">4</td>
     <td class="tg-0lax">1/03/2023</td>
     <td class="tg-0lax">Condicionales</td>
-    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase7">Clase 7</a>/td>
+    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase7">Clase 7</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
