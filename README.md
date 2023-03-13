@@ -157,7 +157,7 @@ La información del curso se proporcionará mediante presentaciones o mediante r
     <td class="tg-0lax">7</td>
     <td class="tg-0lax">22/03/2023</td>
     <td class="tg-0lax">Bucles 2</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase11">Clase 11</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
