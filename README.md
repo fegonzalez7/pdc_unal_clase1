@@ -32,17 +32,17 @@ Bienvenidos al emocionante mundo de la programación...(qué más se puede decir
 ## Metodología del curso
 **Disclaimer:** En este curso se procurará desarrollar el pensamiento lógico, programar viene por añadidura. 
 
-Desarrollar soluciones lógicas puede ser algo intrinseco de cada persona o se puede aprender, pero como todo es un proceso que lleva tiempo y esfuerzo. Este curso está estructurado de tal manera que provee una guía y facilita material para que el desarrollo de ciertas habilidades peuda darse de forma armónica, sin embargo no reemplaza el autoaprendizaje ni el trabajo propio. 
+Desarrollar soluciones lógicas puede ser algo intrínseco de cada persona o se puede aprender, pero como todo es un proceso que lleva tiempo y esfuerzo. Este curso está estructurado de tal manera que provee una guía y facilita material para que el desarrollo de ciertas habilidades peuda darse de forma armónica, sin embargo no reemplaza el autoaprendizaje ni el trabajo propio. 
 
 La información del curso se proporcionará mediante presentaciones o mediante repositorios, la exposición de esta información se dará en horario de clase y estará disponible para consulta posterior (en la mayoria de casos, para consulta previa también). El desarrollo de ejercicios prácticos se hará mediante talleres, el conocimiento individual se evaluará mediante exámenes conjuntos y las habilidades generales serán puestras a prueba mediante un proyecto.
 
 ## Evaluación
 | Tipo   | %  | Detalle  |
 | ------------ | ------------ | ------------ |
-| Examenes  | 35 | Examenes - 1er (10%) semana 5\*, 2do (10%) semana 10, Final (15%) semana 15 |
+| Exámenes  | 35 | Exámenes - 1er (10%) semana 5\*, 2do (10%) semana 10, Final (15%) semana 15 |
 | Proyecto  | 32  |  avance (10%) semana 10, entrega final (22%) semana 16\* - grupal |
 | Talleres | 18  | 3 talleres (6% c/u) (semanas 5 - 8 - 13)\* - grupal  |
-| Retos | 15  | Desafios en clase, quizes, preguntas, etc.  |
+| Retos | 15  | Desafíos en clase, quizes, preguntas, etc.  |
 
 - **Individual:**  Se desarrolla y se entrega de forma unipersonal.
 - **Grupal:** Se "desarrolla" y entrega de forma grupal. Para el curso se sugieren ternas. - **NO** es obligatorio trabajar de forma grupal, si desea trabajar solo o en parejas es aceptable, pero parte de los objetivos del curso es promover el trabajo en equipo, de modo que se recomienda hacerlo. Soy buen sacerdote (acepto uniones) pero mal abogado (pero no divorcios).
