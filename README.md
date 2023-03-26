@@ -108,7 +108,8 @@ La información del curso se proporcionará mediante presentaciones o mediante r
     <td class="tg-0lax">4</td>
     <td class="tg-0lax">27/02/2023</td>
     <td class="tg-0lax">Operaciones</td>
-    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase6">Clase 6</a></td>
+    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase6">Clase 6</a><br>
+    <a href="https://youtu.be/AIfxBYO-9PA">Clase grabada</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
@@ -143,7 +144,9 @@ La información del curso se proporcionará mediante presentaciones o mediante r
     <td class="tg-0lax">6</td>
     <td class="tg-0lax">15/03/2023</td>
     <td class="tg-0lax">Bucles 1</td>
-    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase10">Clase 10</a></td>
+    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase10">Clase 10</a><br>
+    <a href="https://youtu.be/SZ2Gi9-lvww">Clase grabada</a>
+    </td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
@@ -156,22 +159,22 @@ La información del curso se proporcionará mediante presentaciones o mediante r
     <td class="tg-0lax">Semana</td>
     <td class="tg-0lax">7</td>
     <td class="tg-0lax">22/03/2023</td>
-    <td class="tg-0lax">Bucles 2</td>
-    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase11">Clase 11</a></td>
+    <td class="tg-0lax">Dudas y reflexiones</td>
+    <td class="tg-0lax"></a></td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
     <td class="tg-0lax">8</td>
     <td class="tg-0lax">27/03/2023</td>
-    <td class="tg-0lax">Funciones 2</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Bucles 2</td>
+    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase11">Clase 11</td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
     <td class="tg-0lax">8</td>
     <td class="tg-0lax">29/03/2023</td>
-    <td class="tg-0lax">Taller 2</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Funciones 2</td>
+    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase12">Clase 12</td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
