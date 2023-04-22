@@ -217,14 +217,14 @@ La información del curso se proporcionará mediante presentaciones o mediante r
     <td class="tg-0lax">10</td>
     <td class="tg-0lax">19/04/2023</td>
     <td class="tg-0lax">Taller 2</td>
-    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase12">Clase 14</td>
+    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase14">Clase 14</td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
     <td class="tg-0lax">11</td>
     <td class="tg-0lax">24/04/2023</td>
     <td class="tg-0lax">Matrices</td>
-    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase12">Clase 15</td>
+    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase15">Clase 15</td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
