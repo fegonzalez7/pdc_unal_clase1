@@ -244,34 +244,34 @@ La información del curso se proporcionará mediante presentaciones o mediante r
     <td class="tg-0lax">12</td>
     <td class="tg-0lax">3/05/2023</td>
     <td class="tg-0lax">Strings</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase16">Clase 16</td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
     <td class="tg-0lax">13</td>
     <td class="tg-0lax">8/05/2023</td>
-    <td class="tg-0lax">Tuplas y diccionarios</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Tuplas</td>
+    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase17">Clase 17</td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
     <td class="tg-0lax">13</td>
     <td class="tg-0lax">10/05/2023</td>
-    <td class="tg-0lax">Diccionarios 2</td>
+    <td class="tg-0lax">No clase</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
     <td class="tg-0lax">14</td>
     <td class="tg-0lax">15/05/2023</td>
-    <td class="tg-0lax">Uso de numpy</td>
+    <td class="tg-0lax">No clase</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
     <td class="tg-0lax">14</td>
     <td class="tg-0lax">17/05/2023</td>
-    <td class="tg-0lax">Taller 3</td>
+    <td class="tg-0lax">Correcion examen</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
@@ -285,21 +285,70 @@ La información del curso se proporcionará mediante presentaciones o mediante r
     <td class="tg-0lax">Semana</td>
     <td class="tg-0lax">15</td>
     <td class="tg-0lax">24/05/2023</td>
-    <td class="tg-0lax">Dudas - Avance</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Diccionarios 1</td>
+    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase18">Clase 18</td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
     <td class="tg-0lax">16</td>
     <td class="tg-0lax">29/05/2023</td>
-    <td class="tg-0lax">Entrega Proyecto</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Diccionarios 2</td>
+    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase15">Clase 18</td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
     <td class="tg-0lax">16</td>
     <td class="tg-0lax">31/05/2023</td>
+    <td class="tg-0lax">Trabajo en clase - Retos</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax">17</td>
+    <td class="tg-0lax">05/06/2023</td>
+    <td class="tg-0lax">Numpy</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax">17</td>
+    <td class="tg-0lax">07/06/2023</td>
+    <td class="tg-0lax">Archivos</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax">18</td>
+    <td class="tg-0lax">12/06/2023</td>
+    <td class="tg-0lax">Festivo</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax">18</td>
+    <td class="tg-0lax">14/06/2023</td>
+    <td class="tg-0lax">Dudas proyecto</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax">19</td>
+    <td class="tg-0lax">19/06/2023</td>
+    <td class="tg-0lax">Festivo</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax">19</td>
+    <td class="tg-0lax">21/06/2023</td>
     <td class="tg-0lax">Examen Final</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax">20</td>
+    <td class="tg-0lax">26/06/2023 - 30/06/2023</td>
+    <td class="tg-0lax">Proyectos finales</td>
     <td class="tg-0lax"></td>
   </tr>
 </tbody>
@@ -318,6 +367,7 @@ La información del curso se proporcionará mediante presentaciones o mediante r
 </p></details></br>
 
 ## Calendario académico 
+
 <table>
   <tr>
     <td>Iniciación de clases </td>
@@ -329,11 +379,11 @@ La información del curso se proporcionará mediante presentaciones o mediante r
   </tr>
   <tr>
     <td>Finalización de clases</td>
-    <td>Mayo 31 de 2022</td>
+    <td>Junio 23  de 2022</td>
   </tr>
    <tr>
     <td>Reporte de calificaciones </td>
-    <td>Junio 9 de 2022</td>
+    <td>Junio 30 de 2022</td>
   </tr>
 </table>
 <br>
