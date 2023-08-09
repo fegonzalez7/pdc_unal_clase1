@@ -14,7 +14,7 @@ Bienvenidos al emocionante mundo de la programación...(qué más se puede decir
 
 **Docente:** [Felipe Gonzalez Roldan](https://felipeg17.github.io/index.html)<br>
 **Correo:** <mailto>fegonzalezro@unal.edu.co</mailto><br>
-**Slack del curso:** [Link para unirse](https://join.slack.com/t/programaciond-z4k6172/shared_invite/zt-1on7outdv-rGi3R~xmA8MyXtHMlu6vYQ)<br>
+**Slack del curso:** [Link para unirse](https://join.slack.com/t/programaciond-vn57737/shared_invite/zt-20x8x11s4-YwIVjAH2FzlhcjbM88oY0A)<br>
 
 ### Objetivos del curso
 (Oficiales)
@@ -38,10 +38,10 @@ La información del curso se proporcionará mediante presentaciones o mediante r
 ## Evaluación
 | Tipo   | %  | Detalle  |
 | ------------ | ------------ | ------------ |
-| Exámenes  | 35 | Exámenes - 1er (10%) semana 5\*, 2do (10%) semana 10, Final (15%) semana 15 |
-| Proyecto  | 32  |  avance (10%) semana 10, entrega final (22%) semana 16\* - grupal |
-| Talleres | 18  | 3 talleres (6% c/u) (semanas 5 - 8 - 13)\* - grupal  |
-| Retos | 15  | Desafíos en clase, quices, preguntas, etc.  |
+| Exámenes  | 35 | Exámenes - 1er (10%) semana 6\*, 2do (10%) semana 11, Final (15%) semana 15 |
+| Proyecto  | 35  |  avance (10%) semana 10, entrega final (25%) semana 16\* - grupal |
+| Talleres | 10  | 2 talleres (5% c/u) (semanas 5 - 10)\* - grupal  |
+| Retos | 20  | Desafíos en clase, quices, preguntas, etc.  |
 
 - **Individual:**  Se desarrolla y se entrega de forma unipersonal.
 - **Grupal:** Se "desarrolla" y entrega de forma grupal. Para el curso se sugieren ternas. - **NO** es obligatorio trabajar de forma grupal, si desea trabajar solo o en parejas es aceptable, pero parte de los objetivos del curso es promover el trabajo en equipo, de modo que se recomienda hacerlo. Soy buen sacerdote (acepto uniones) pero mal abogado (pero no divorcios).
@@ -63,136 +63,107 @@ La información del curso se proporcionará mediante presentaciones o mediante r
   <tr>
     <td class="tg-0lax">Semana</td>
     <td class="tg-0lax">1</td>
-    <td class="tg-0lax">6/02/2023</td>
+    <td class="tg-0lax">9/08/2023</td>
     <td class="tg-0lax">Intro al curso</td>
     <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase1">Clase 1</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">1</td>
-    <td class="tg-0lax">8/02/2023</td>
+    <td class="tg-0lax">2</td>
+    <td class="tg-0lax">14/08/2023</td>
     <td class="tg-0lax">Herramientas</td>
     <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase2">Clase 2</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
     <td class="tg-0lax">2</td>
-    <td class="tg-0lax">13/02/2023</td>
+    <td class="tg-0lax">16/08/2023</td>
     <td class="tg-0lax">Generalidades programación</td>
     <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase3">Clase 3</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">2</td>
-    <td class="tg-0lax">15/02/2023</td>
+    <td class="tg-0lax">3</td>
+    <td class="tg-0lax">21/08/2023</td>
     <td class="tg-0lax">Problemas - Algoritmos</td>
     <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase4">Clase 4</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
     <td class="tg-0lax">3</td>
-    <td class="tg-0lax">20/02/2023</td>
+    <td class="tg-0lax">23/08/2023</td>
     <td class="tg-0lax">Lenguajes</td>
     <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase5">Clase 5</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">3</td>
-    <td class="tg-0lax">22/02/2023</td>
+    <td class="tg-0lax">4</td>
+    <td class="tg-0lax">28/08/2023</td>
     <td class="tg-0lax">Tipos de datos - Variables</td>
     <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase6">Clase 6</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
     <td class="tg-0lax">4</td>
-    <td class="tg-0lax">27/02/2023</td>
+    <td class="tg-0lax">30/08/2023</td>
     <td class="tg-0lax">Operaciones</td>
     <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase6">Clase 6</a><br>
     <a href="https://youtu.be/AIfxBYO-9PA">Clase grabada</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">4</td>
-    <td class="tg-0lax">1/03/2023</td>
+    <td class="tg-0lax">5</td>
+    <td class="tg-0lax">4/09/2023</td>
     <td class="tg-0lax">Condicionales</td>
     <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase7">Clase 7</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
     <td class="tg-0lax">5</td>
-    <td class="tg-0lax">6/03/2023</td>
+    <td class="tg-0lax">6/09/2023</td>
     <td class="tg-0lax">Taller 1</td>
     <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase8">Clase 8</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">5</td>
-    <td class="tg-0lax">8/03/2023</td>
+    <td class="tg-0lax">6</td>
+    <td class="tg-0lax">11/09/2023</td>
     <td class="tg-0lax">Examen 1</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
     <td class="tg-0lax">6</td>
-    <td class="tg-0lax">13/03/2023</td>
+    <td class="tg-0lax">13/09/2023</td>
     <td class="tg-0lax">Funciones 1</td>
     <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase9">Clase 9</a></td>
   </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">6</td>
-    <td class="tg-0lax">15/03/2023</td>
-    <td class="tg-0lax">Bucles 1</td>
-    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase10">Clase 10</a><br>
-    <a href="https://youtu.be/SZ2Gi9-lvww">Clase grabada</a>
-    </td>
-  </tr>
-  <tr>
+   <tr>
     <td class="tg-0lax">Semana</td>
     <td class="tg-0lax">7</td>
-    <td class="tg-0lax">20/03/2023</td>
-    <td class="tg-0lax">Festivo</td>
+    <td class="tg-0lax">18/09/2023</td>
+    <td class="tg-0lax">Semana Universitaria</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
     <td class="tg-0lax">7</td>
-    <td class="tg-0lax">22/03/2023</td>
-    <td class="tg-0lax">Dudas y reflexiones</td>
+    <td class="tg-0lax">20/09/2023</td>
+    <td class="tg-0lax">Semana Universitaria</td>
     <td class="tg-0lax"></a></td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
     <td class="tg-0lax">8</td>
-    <td class="tg-0lax">27/03/2023</td>
-    <td class="tg-0lax">No se realizó clase</td>
-    <td class="tg-0lax"></td>
-  </tr>
+    <td class="tg-0lax">25/09/2023</td>
+    <td class="tg-0lax">Bucles 1</td>
+    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase10">Clase 10</a><br>
+    <a href="https://youtu.be/SZ2Gi9-lvww">Clase grabada</a>
+    </td>
   <tr>
     <td class="tg-0lax">Semana</td>
     <td class="tg-0lax">8</td>
-    <td class="tg-0lax">29/03/2023</td>
-    <td class="tg-0lax">No se realizó clase</td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">3/04/2023</td>
-    <td class="tg-0lax">Semana Santa</td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">5/04/2023</td>
-    <td class="tg-0lax">Semana Santa</td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">9</td>
-    <td class="tg-0lax">10/04/2023</td>
+    <td class="tg-0lax">27/09/2023</td>
     <td class="tg-0lax">Bucles 2</td>
     <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase11">Clase 11<br>
     <a href="https://youtu.be/LoZbDRfFMX4">Clase grabada</a></td>
@@ -200,155 +171,78 @@ La información del curso se proporcionará mediante presentaciones o mediante r
   <tr>
     <td class="tg-0lax">Semana</td>
     <td class="tg-0lax">9</td>
-    <td class="tg-0lax">12/04/2023</td>
+    <td class="tg-0lax">2/10/2023</td>
     <td class="tg-0lax">Funciones 2</td>
     <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase12">Clase 12<br>
     <a href="https://youtu.be/JEwhlyGmcIU">Clase grabada</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">10</td>
-    <td class="tg-0lax">17/04/2023</td>
+    <td class="tg-0lax">9</td>
+    <td class="tg-0lax">4/10/2023</td>
     <td class="tg-0lax">Arreglos y listas</td>
     <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase13">Clase 13</td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
     <td class="tg-0lax">10</td>
-    <td class="tg-0lax">19/04/2023</td>
+    <td class="tg-0lax">9/10/2023</td>
     <td class="tg-0lax">Taller 2</td>
     <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase14">Clase 14</td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">11</td>
-    <td class="tg-0lax">24/04/2023</td>
+    <td class="tg-0lax">10</td>
+    <td class="tg-0lax">11/10/2023</td>
     <td class="tg-0lax">Matrices</td>
     <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase15">Clase 15</td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
     <td class="tg-0lax">11</td>
-    <td class="tg-0lax">26/04/2023</td>
-    <td class="tg-0lax">Examen 2</td>
+    <td class="tg-0lax">16/10/2023</td>
+    <td class="tg-0lax">Festivo</td>
     <td class="tg-0lax"></td>
   </tr>
     <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">12</td>
-    <td class="tg-0lax">1/05/2023</td>
-    <td class="tg-0lax">Festivo</td>
+    <td class="tg-0lax">11</td>
+    <td class="tg-0lax">18/10/2023</td>
+    <td class="tg-0lax">Examen 2</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
     <td class="tg-0lax">12</td>
-    <td class="tg-0lax">3/05/2023</td>
+    <td class="tg-0lax">23/10/2023</td>
     <td class="tg-0lax">Strings</td>
     <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase16">Clase 16</td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">13</td>
-    <td class="tg-0lax">8/05/2023</td>
+    <td class="tg-0lax">12</td>
+    <td class="tg-0lax">25/10/2023</td>
     <td class="tg-0lax">Tuplas</td>
     <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase17">Clase 17</td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
     <td class="tg-0lax">13</td>
-    <td class="tg-0lax">10/05/2023</td>
-    <td class="tg-0lax">No clase</td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">14</td>
-    <td class="tg-0lax">15/05/2023</td>
-    <td class="tg-0lax">No clase</td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">14</td>
-    <td class="tg-0lax">17/05/2023</td>
-    <td class="tg-0lax">Correcion examen</td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">15</td>
-    <td class="tg-0lax">22/05/2023</td>
-    <td class="tg-0lax">Festivo</td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">15</td>
-    <td class="tg-0lax">24/05/2023</td>
+    <td class="tg-0lax">30/10/2023</td>
     <td class="tg-0lax">Diccionarios 1</td>
     <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase18">Clase 18</td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">16</td>
-    <td class="tg-0lax">29/05/2023</td>
+    <td class="tg-0lax">13</td>
+    <td class="tg-0lax">01/11/2023</td>
     <td class="tg-0lax">Diccionarios 2</td>
     <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase15">Clase 18</td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">16</td>
-    <td class="tg-0lax">31/05/2023</td>
-    <td class="tg-0lax">Trabajo en clase - Retos</td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">17</td>
-    <td class="tg-0lax">05/06/2023</td>
-    <td class="tg-0lax">Numpy</td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">17</td>
-    <td class="tg-0lax">07/06/2023</td>
-    <td class="tg-0lax">Archivos</td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">18</td>
-    <td class="tg-0lax">12/06/2023</td>
-    <td class="tg-0lax">Festivo</td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">18</td>
-    <td class="tg-0lax">14/06/2023</td>
-    <td class="tg-0lax">Dudas proyecto</td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">19</td>
-    <td class="tg-0lax">19/06/2023</td>
-    <td class="tg-0lax">Festivo</td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">19</td>
-    <td class="tg-0lax">21/06/2023</td>
+    <td class="tg-0lax">15</td>
+    <td class="tg-0lax">20/11/2023</td>
     <td class="tg-0lax">Examen Final</td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">20</td>
-    <td class="tg-0lax">26/06/2023 - 30/06/2023</td>
-    <td class="tg-0lax">Proyectos finales</td>
     <td class="tg-0lax"></td>
   </tr>
 </tbody>
@@ -371,19 +265,15 @@ La información del curso se proporcionará mediante presentaciones o mediante r
 <table>
   <tr>
     <td>Iniciación de clases </td>
-    <td>Febrero 6 de 2023</td>
+    <td>Agosto 8 de 2023</td>
   </tr>
   <tr>
-    <td>Semana Santa</td>
-    <td>Abril 2 a 8 de 2022</td>
-  </tr>
-  <tr>
-    <td>Finalización de clases</td>
-    <td>Junio 23  de 2022</td>
+    <td>Semana Universitaria</td>
+    <td>Septiembre 18 - 23 de 2022</td>
   </tr>
    <tr>
     <td>Reporte de calificaciones </td>
-    <td>Junio 30 de 2022</td>
+    <td>Diciembre 1 de 2023</td>
   </tr>
 </table>
 <br>
