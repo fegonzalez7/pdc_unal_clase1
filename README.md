@@ -112,43 +112,43 @@ La información del curso se proporcionará mediante presentaciones o mediante r
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">6</td>
+    <td class="tg-0lax">5</td>
     <td class="tg-0lax">11/09/2023</td>
     <td class="tg-0lax">Condicionales</td>
     <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase7">Clase 7</a></td>
   </tr>
+  <tr>
+    <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax">5</td>
+    <td class="tg-0lax">13/09/2023</td>
+    <td class="tg-0lax">Taller 1</td>
+    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase8">Clase 8</a></td>
+  </tr>
    <tr>
     <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">7</td>
+    <td class="tg-0lax">6</td>
     <td class="tg-0lax">18/09/2023</td>
     <td class="tg-0lax">Semana Universitaria</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">7</td>
+    <td class="tg-0lax">6</td>
     <td class="tg-0lax">20/09/2023</td>
     <td class="tg-0lax">Semana Universitaria</td>
     <td class="tg-0lax"></a></td>
   </tr>
    <tr>
     <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">8</td>
+    <td class="tg-0lax">7</td>
     <td class="tg-0lax">25/09/2023</td>
-    <td class="tg-0lax">Taller 1</td>
-    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase8">Clase 8</a></td>
-  </tr>
-   <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">8</td>
-    <td class="tg-0lax">27/09/2023</td>
     <td class="tg-0lax">Examen 1</td>
     <td class="tg-0lax"></td>
   </tr> 
   <tr>
     <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">6</td>
-    <td class="tg-0lax">13/09/2023</td>
+    <td class="tg-0lax">7</td>
+    <td class="tg-0lax">27/09/2023</td>
     <td class="tg-0lax">Funciones 1</td>
     <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase9">Clase 9</a></td>
   </tr>
