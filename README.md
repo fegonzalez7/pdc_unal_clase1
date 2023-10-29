@@ -186,62 +186,62 @@ La información del curso se proporcionará mediante presentaciones o mediante r
   <tr>
     <td class="tg-0lax">Semana</td>
     <td class="tg-0lax">10</td>
-    <td class="tg-0lax">9/10/2023</td>
+    <td class="tg-0lax">18/10/2023</td>
     <td class="tg-0lax">Taller 2</td>
     <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase14">Clase 14</td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
     <td class="tg-0lax">10</td>
-    <td class="tg-0lax">11/10/2023</td>
-    <td class="tg-0lax">Matrices</td>
-    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase15">Clase 15</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">11</td>
-    <td class="tg-0lax">16/10/2023</td>
-    <td class="tg-0lax">Festivo</td>
-    <td class="tg-0lax"></td>
-  </tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">11</td>
-    <td class="tg-0lax">18/10/2023</td>
+    <td class="tg-0lax">23/10/2023</td>
     <td class="tg-0lax">Examen 2</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax">11</td>
+    <td class="tg-0lax">25/10/2023</td>
+    <td class="tg-0lax">Intro proyecto</td>
+    <td class="tg-0lax"></td>
+  </tr>
+    <td class="tg-0lax">Semana</td>
+    <td class="tg-0lax">11</td>
+    <td class="tg-0lax">30/10/2023</td>
+    <td class="tg-0lax">Matrices</td>
+    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase15">Clase 15</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Semana</td>
     <td class="tg-0lax">12</td>
-    <td class="tg-0lax">23/10/2023</td>
+    <td class="tg-0lax">01/11/2023</td>
     <td class="tg-0lax">Strings</td>
     <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase16">Clase 16</td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">12</td>
-    <td class="tg-0lax">25/10/2023</td>
+    <td class="tg-0lax">13</td>
+    <td class="tg-0lax">08/11/2023</td>
     <td class="tg-0lax">Tuplas</td>
     <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase17">Clase 17</td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">13</td>
-    <td class="tg-0lax">30/10/2023</td>
+    <td class="tg-0lax">14</td>
+    <td class="tg-0lax">15/11/2023</td>
     <td class="tg-0lax">Diccionarios 1</td>
     <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase18">Clase 18</td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">13</td>
-    <td class="tg-0lax">01/11/2023</td>
+    <td class="tg-0lax">14</td>
+    <td class="tg-0lax">20/11/2023</td>
     <td class="tg-0lax">Diccionarios 2</td>
     <td class="tg-0lax"><a href="https://github.com/fegonzalez7/pdc_unal_clase15">Clase 18</td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
     <td class="tg-0lax">15</td>
-    <td class="tg-0lax">20/11/2023</td>
+    <td class="tg-0lax">22/11/2023</td>
     <td class="tg-0lax">Examen Final</td>
     <td class="tg-0lax"></td>
   </tr>
