@@ -146,13 +146,6 @@ La información del curso se proporcionará mediante presentaciones o mediante r
     <tr>
       <td>Semana</td>
       <td>6</td>
-      <td>27/11/2024</td>
-        <td>Sesión de práctica</td>
-      <td><a href="https://github.com/fegonzalez7/pdc_unal_clase8">Clase 8</a></td>
-    </tr>
-    <tr>
-      <td>Semana</td>
-      <td>6</td>
       <td>02/12/2024</td>
       <td>Funciones 1</td>
       <td><a href="https://github.com/fegonzalez7/pdc_unal_clase9">Clase 9</a></br>
@@ -160,18 +153,26 @@ La información del curso se proporcionará mediante presentaciones o mediante r
     </tr>
     <tr>
       <td>Semana</td>
-      <td>7</td>
-      <td>09/12/2024</td>
+      <td>6</td>
+      <td>04/12/2024</td>
       <td>Bucles 1</td>
       <td><a href="https://github.com/fegonzalez7/pdc_unal_clase10">Clase 10<br>
       <a href="https://youtu.be/SZ2Gi9-lvww">Clase grabada</a></td>
+    </tr>
+    <tr>
+      <td>Semana</td>
+      <td>7</td>
+      <td>09/12/2024</td>
+      <td>Bucles 2</td>
+      <td><a href="https://github.com/fegonzalez7/pdc_unal_clase11">Clase 11<br>
+      <a href="https://youtu.be/LoZbDRfFMX4">Clase grabada</a></td>
+    </tr>
     <tr>
       <td>Semana</td>
       <td>7</td>
       <td>11/12/2024</td>
-      <td>Bucles 2</td>
-      <td><a href="https://github.com/fegonzalez7/pdc_unal_clase11">Clase 11<br>
-      <a href="https://youtu.be/LoZbDRfFMX4">Clase grabada</a></td>
+      <td>Sesion de practica</td>
+      <td></td>
     </tr>
     <tr>
       <td>Semana</td>
