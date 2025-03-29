@@ -7,6 +7,7 @@ Bienvenidos al emocionante mundo de la programación...(qué más se puede decir
 **Nombre de la asignatura:** Programación de Computadores<br>
 **Código:** 2015734<br>
 **Nivel:** Pregrado<br>
+**Créditos:** 3<br>
 **Sede:** Bogotá<br>
 **Facultad:** Ingeniería<br>
 **Unidad que ofrece la asignatura:** Departamento de Ingeniería de Sistemas e Industrial<br>
@@ -15,8 +16,8 @@ Bienvenidos al emocionante mundo de la programación...(qué más se puede decir
 
 **Docente:** [Felipe Gonzalez Roldan](https://felipeg17.github.io/index.html)<br>
 **Correo:** <mailto>fegonzalezro@unal.edu.co</mailto><br>
-**Slack del curso:** [Link para unirse](https://join.slack.com/t/pdc-2024-2-gr-5/shared_invite/zt-2tbtsx7c3-5LOIdmAyVqmf89~sT~quqQ)<br>
-**Classroom:** [Link para unirse](https://classroom.google.com/c/Njg2NTI4Njk0NTA5?cjc=63uxmjo)<br>
+**Slack del curso:** [Link para unirse](https://join.slack.com/t/pdc-unal-2025-1-gr-5/shared_invite/zt-32rmn67f8-0FlQjrhfDcm1pC6yNoVrPA)<br>
+**Classroom:** [Link para unirse](https://classroom.google.com/c/Njk4NjMwMDA5NTA1?cjc=irxywocl)<br>
 
 ### Objetivos del curso
 
@@ -47,8 +48,8 @@ La información del curso se proporcionará mediante presentaciones o mediante r
 
 | Tipo     | %   | Detalle                                                                     |
 | -------- | --- | --------------------------------------------------------------------------- |
-| Exámenes | 35  | Exámenes - 1er (15%) semana 8\*, Final (20%) semana 15 |
-| Proyecto | 35  | avance (10%) semana 10, entrega final (25%) semana 16\* - grupal           |
+| Exámenes | 35  | Exámenes - 1er (15%) semana 8\*, Final (20%) semana 16 |
+| Proyecto | 35  | avance (7.5%) semana 11, entrega final (22.5%) semana 17\* - grupal           |
 | Retos    | 30  | Desafíos en clase, preguntas etc.                   |
 
 - **Individual:** Se desarrolla y se entrega de forma unipersonal.
@@ -73,65 +74,65 @@ La información del curso se proporcionará mediante presentaciones o mediante r
     <tr>
       <td>Semana</td>
       <td>1</td>
-      <td>28/10/2024</td>
+      <td>31/01/2025</td>
       <td>Intro al curso</td>
       <td><a href="https://github.com/fegonzalez7/pdc_unal_clase1">Clase 1</a></td>
     </tr>
     <tr>
       <td>Semana</td>
       <td>1</td>
-      <td>30/10/2024</td>
+      <td>02/04/2025</td>
       <td>Herramientas</td>
       <td><a href="https://github.com/fegonzalez7/pdc_unal_clase2">Clase 2</a></td>
     </tr>
     <tr>
         <td>Semana</td>
         <td>2</td>
-        <td>04/11/2024</td>
-        <td>Festivo</td>
-        <td><a href=""></a></td>
+        <td>07/04/2025</td>
+        <td>Generalidades programación</td>
+      <td><a href="https://github.com/fegonzalez7/pdc_unal_clase3">Clase 3</a></td>
       </tr>
       <tr>
     <tr>
       <td>Semana</td>
       <td>2</td>
-      <td>06/11/2024</td>
-      <td>Generalidades programación</td>
-      <td><a href="https://github.com/fegonzalez7/pdc_unal_clase3">Clase 3</a></td>
+      <td>09/04/2025</td>
+      <td>Problemas - Algoritmos</td>
+      <td><a href="https://github.com/fegonzalez7/pdc_unal_clase4">Clase 4</a></td>
     </tr>
     <tr>
         <td>Semana</td>
         <td>3</td>
-        <td>11/11/2024</td>
-        <td>Festivo</td>
+        <td>14/04/2025</td>
+        <td>Semana Santa</td>
         <td></td>
       </tr>
       <tr>
     <tr>
       <td>Semana</td>
       <td>3</td>
-      <td>13/11/2024</td>
-      <td>Problemas - Algoritmos</td>
-      <td><a href="https://github.com/fegonzalez7/pdc_unal_clase4">Clase 4</a></td>
+      <td>16/04/2025</td>
+      <td>Semana Santa</td>
+        <td></td>
     </tr>
     <tr>
       <td>Semana</td>
       <td>4</td>
-      <td>18/11/2024</td>
+      <td>21/04/2025</td>
       <td>Lenguajes</td>
       <td><a href="https://github.com/fegonzalez7/pdc_unal_clase5">Clase 5</a></td>
     </tr>
     <tr>
       <td>Semana</td>
       <td>4</td>
-      <td>20/11/2024</td>
+      <td>23/04/20254</td>
       <td>Tipos de datos - Variables</td>
       <td><a href="https://github.com/fegonzalez7/pdc_unal_clase6">Clase 6</a></td>
     </tr>
     <tr>
       <td>Semana</td>
       <td>5</td>
-      <td>25/11/2024</td>
+      <td>28/04/2025</td>
       <td>Operaciones</td>
       <td><a href="https://github.com/fegonzalez7/pdc_unal_clase6">Clase 6</a><br>
       <a href="https://youtu.be/AIfxBYO-9PA">Clase grabada</a></td>
@@ -139,14 +140,14 @@ La información del curso se proporcionará mediante presentaciones o mediante r
     <tr>
       <td>Semana</td>
       <td>5</td>
-      <td>27/11/2024</td>
+      <td>30/04/2025</td>
       <td>Condicionales</td>
       <td><a href="https://github.com/fegonzalez7/pdc_unal_clase7">Clase 7</a></td>
     </tr>
     <tr>
       <td>Semana</td>
       <td>6</td>
-      <td>02/12/2024</td>
+      <td>05/05/2025</td>
       <td>Funciones 1</td>
       <td><a href="https://github.com/fegonzalez7/pdc_unal_clase9">Clase 9</a></br>
       <a href="https://youtu.be/Ddf5oMZ45sU">Clase grabada</a></td>
@@ -154,7 +155,7 @@ La información del curso se proporcionará mediante presentaciones o mediante r
     <tr>
       <td>Semana</td>
       <td>6</td>
-      <td>04/12/2024</td>
+      <td>07/05/2025</td>
       <td>Bucles 1</td>
       <td><a href="https://github.com/fegonzalez7/pdc_unal_clase10">Clase 10<br>
       <a href="https://youtu.be/trQnS1LS-PE">Clase grabada</a></td>
@@ -162,51 +163,58 @@ La información del curso se proporcionará mediante presentaciones o mediante r
     <tr>
       <td>Semana</td>
       <td>7</td>
-      <td>09/12/2024</td>
+      <td>12/05/2025</td>
+      <td>Sesion de practica</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Semana</td>
+      <td>7</td>
+      <td>14/05/2025</td>
       <td>Bucles 2</td>
       <td><a href="https://github.com/fegonzalez7/pdc_unal_clase11">Clase 11<br>
       <a href="https://youtu.be/LoZbDRfFMX4">Clase grabada</a></td>
     </tr>
     <tr>
       <td>Semana</td>
-      <td>7</td>
-      <td>11/12/2024</td>
-      <td>Sesion de practica</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Semana</td>
       <td>8</td>
-        <td>16/12/2024</td>
-        <td>Examen 1</td>
-        <td></td>
-    </tr>
-    <tr>
-      <td>Semana</td>
-      <td>8</td>
-      <td>18/12/2024</td>
+      <td>19/05/2025</td>
       <td>Intro proyecto - Sesión de práctica</td>
       <td></td>
     </tr>
     <tr>
       <td>Semana</td>
+      <td>8</td>
+        <td>21/05/2025</td>
+        <td>Examen 1</td>
+        <td></td>
+    </tr>
+    <tr>
+      <td>Semana</td>
       <td>9</td>
-      <td>16/01/2025</td>
+      <td>26/05/2025</td>
       <td>Funciones 2</td>
       <td><a href="https://github.com/fegonzalez7/pdc_unal_clase12">Clase 12</td>
     </tr>
     <tr>
       <td>Semana</td>
-      <td>10</td>
-      <td>20/01/2025</td>
+      <td>9</td>
+      <td>28/05/2025</td>
       <td>Listas</td>
       <td><a href="https://github.com/fegonzalez7/pdc_unal_clase13">Clase 13<br>
       <a href="https://youtu.be/RhIEJAVJghA">Clase grabada</a></td>
+    </tr>
+    <tr>
+      <td>Semana</td>
+      <td>10</td>
+        <td>02/06/2025</td>
+        <td>Festivo</td>
+        <td></td>
     </tr> 
     <tr>
       <td>Semana</td>
       <td>10</td>
-      <td>22/01/2025</td>
+      <td>04/06/2025</td>
       <td>Matrices</td>
       <td><a href="https://github.com/fegonzalez7/pdc_unal_clase15">Clase 15<br>
       <a href="https://youtu.be/U1AW6u4si-A">Clase grabada</a></td></td>
@@ -214,21 +222,21 @@ La información del curso se proporcionará mediante presentaciones o mediante r
     <tr>
         <td>Semana</td>
         <td>11</td>
-        <td>27/01/2025</td>
+        <td>09/06/2025</td>
         <td>Avance de proyecto</td>
         <td><a href=""></a></td>
       </tr>
       <tr>
         <td>Semana</td>
         <td>11</td>
-        <td>29/01/2025</td>
+        <td>11/06/2025</td>
         <td>Avance de proyecto</td>
         <td><a href=""></a></td>
       </tr>
     <tr>
       <td>Semana</td>
       <td>12</td>
-      <td>03/02/2025</td>
+      <td>16/06/2025</td>
       <td>Strings</td>
       <td><a href="https://github.com/fegonzalez7/pdc_unal_clase16">Clase 16<br>
       <a href="https://youtu.be/ahXU7UqL2pE">Clase grabada</a></td>
@@ -236,7 +244,7 @@ La información del curso se proporcionará mediante presentaciones o mediante r
     <tr>
       <td>Semana</td>
       <td>12</td>
-      <td>05/02/2025</td>
+      <td>18/06/2025</td>
       <td>Tuplas</td>
       <td><a href="https://github.com/fegonzalez7/pdc_unal_clase17">Clase 17<br>
       <a href="https://youtu.be/x3u-KqGumCk">Clase grabada</a></td>
@@ -244,60 +252,74 @@ La información del curso se proporcionará mediante presentaciones o mediante r
     <tr>
       <td>Semana</td>
       <td>13</td>
-      <td>10/02/2025</td>
+        <td>23/06/2025</td>
+        <td>Festivo</td>
+        <td></td>
+    </tr>
+    <tr>
+      <td>Semana</td>
+      <td>13</td>
+      <td>25/06/2025</td>
       <td>Diccionarios 1</td>
       <td><a href="https://github.com/fegonzalez7/pdc_unal_clase18">Clase 18<br>
       <a href="https://youtu.be/ZKAKYSzrYHE">Clase grabada</a></td>
     </tr>
     <tr>
       <td>Semana</td>
-      <td>13</td>
-      <td>12/02/2025</td>
+      <td>14</td>
+        <td>30/06/2025</td>
+        <td>Festivo</td>
+        <td></td>
+    </tr>
+    <tr>
+      <td>Semana</td>
+      <td>14</td>
+      <td>02/07/2025</td>
       <td>Diccionarios 2</td>
       <td><a href="https://github.com/fegonzalez7/pdc_unal_clase18">Clase 18<br>
     </tr>
     <tr>
       <td>Semana</td>
-      <td>14</td>
-      <td>17/02/2025</td>
+      <td>15</td>
+      <td>07/07/2025</td>
       <td>Módulos Externos</td>
-      <td><a href="https://github.com/fegonzalez7/pdc_unal_clase18">Clase 19</td>
+      <td><a href="https://github.com/fegonzalez7/pdc_unal_clase19">Clase 19</td>
     </tr>
     <tr>
       <td>Semana</td>
-      <td>14</td>
-      <td>19/02/2025</td>
+      <td>15</td>
+      <td>09/07/2025</td>
       <td>Bonus</td>
       <td><a href=""></td>
     </tr>
     <tr>
         <td>Semana</td>
-        <td>15</td>
-        <td>24/02/2025</td>
-        <td>Examen Final</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>Semana</td>
-        <td>15</td>
-        <td>26/02/2025</td>
-        <td></td>
-        <td><a href=""></a></td>
-      </tr>
-      <tr>
-        <td>Semana</td>
         <td>16</td>
-        <td>03/03/2025</td>
-        <td>Entrega final proyecto</td>
+        <td>14/07/2025</td>
+        <td></td>
         <td></td>
       </tr>
-      <tr>
-        <td>Semana</td>
-        <td>16</td>
-        <td>05/03/2025</td>
-        <td>Entrega final proyecto</td>
-        <td></td>
-      </tr>
+    <tr>
+      <td>Semana</td>
+      <td>16</td>
+      <td>16/07/2025</td>
+      <td>Examen Final</td>
+      <td><a href=""></a></td>
+    </tr>
+    <tr>
+      <td>Semana</td>
+      <td>17</td>
+      <td>21/07/2025</td>
+      <td>Entrega final proyecto</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Semana</td>
+      <td>17</td>
+      <td>23/07/2025</td>
+      <td>Entrega final proyecto</td>
+      <td></td>
+    </tr>
   </tbody>
   </table>
   </p>
@@ -305,7 +327,7 @@ La información del curso se proporcionará mediante presentaciones o mediante r
 
 **Disclaimer:** Cualquier modificación se informará oportunamente
 
-**P.D.** Para más detalle revisar el [calendario académico](https://legal.unal.edu.co/rlunal/home/doc.jsp?d_i=109305).
+**P.D.** Para más detalle revisar el [calendario académico](https://legal.unal.edu.co/rlunal/home/doc.jsp?d_i=111244).
 
 ## Código de honor
 
